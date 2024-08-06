@@ -1,0 +1,24 @@
+.container-show {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  padding: 7rem 0;
+  height: 100%;
+}
+
+.container-show h1 {
+  font-size: 26px;
+}
+.btn-out {
+  width: 20rem;
+  height: 50px;
+  background-color: #c44131;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 19px;
+  cursor: pointer;
+}
